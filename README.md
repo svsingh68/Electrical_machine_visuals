@@ -1,8 +1,8 @@
 # Electrical machine 3d-models
 
-These three-dimensional models can be used to teach electrical machine construction
+These three-dimensional models can be used to visualize electrical machine 
 
-and their working principles for the energy conversion.
+construction and their working principles for the energy conversion.
 
 ## Sketchup models for DC machines:
 
