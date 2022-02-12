@@ -20,20 +20,14 @@ construction and their working principles for the energy conversion.
 
 ****
 
-## Sketchup models for winding excitation:
+## Sketchup models for Induction machines:
 
 | `Single-phase alternating field`| `Three-phase rotating field`       |
 | :-------------: |:-------------:|
 | <img src="Induction_machines\1ph_field.png" width="300">      | <img src="Induction_machines\3ph_rotating_field.png" width="300"> |
-
-****
-
-
-## Sketchup models for Induction machines:
-
-| `Squirrell cage IM (SCIM)`| `Wound rotor IM  (WRIM)`       |
-| :-------------: |:-------------:|
-| <img src="DC_machines\DC_motor.png" width="300">      | <img src="DC_machines\DC_gen.png" width="300"> |
+|     |       |
+| `Squirrel cage IM`| `Wound rotor IM`       |
+| <img src="Induction_machines\SCage_IM.png" width="300">      | <img src="Induction_machines\3ph_rotating_field.png" width="300"> |
 
 ****
 
