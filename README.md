@@ -1,8 +1,6 @@
 # Electrical machines visuals
 
-These three-dimensional models can be used to visualize electrical machine 
-
-construction and their working principles for the energy conversion.
+Supplementary materials for teaching & learning "Electrical machines".
 
 ## Folder: DC_machines 
 ### Sketchup models for DC machines:
