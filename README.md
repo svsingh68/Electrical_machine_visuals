@@ -27,7 +27,7 @@ construction and their working principles for the energy conversion.
 | <img src="Induction_machines\1ph_field.png" width="300">      | <img src="Induction_machines\3ph_rotating_field.png" width="300"> |
 |     |       |
 | `Squirrel cage IM`| `Wound rotor IM`       |
-| <img src="Induction_machines\SCage_IM.png" width="300">      | <img src="Induction_machines\3ph_rotating_field.png" width="300"> |
+| <img src="Induction_machines\SCage_IM.png" width="300">      | <img src="Induction_machines\WoundRotor_IM.png" width="300"> |
 
 ****
 
