@@ -48,6 +48,5 @@ Supplementary materials for teaching & learning "Electrical machines".
 | :-------------: |:-------------:|
 | <img src="Induction_machines/Xfig_files_animated_rotating_field/2pole_rotating_field.gif" width="310">      | <img src="Induction_machines/Xfig_files_animated_rotating_field/4pole_rotating_field.gif" width="300"> |
 | | |
-
-
+ 
 
