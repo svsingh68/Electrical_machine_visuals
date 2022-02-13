@@ -1,10 +1,11 @@
-# Electrical machine 3d-models
+# Electrical machines visuals
 
 These three-dimensional models can be used to visualize electrical machine 
 
 construction and their working principles for the energy conversion.
 
-## Sketchup models for DC machines:
+## Folder: DC_machines 
+### Sketchup models for DC machines:
 
 | `DC motor`| `DC generator`           |
 | :-------------: |:-------------:|
@@ -15,7 +16,8 @@ construction and their working principles for the energy conversion.
 
 ****
 
-## Sketchup models for Synchronous machines (SM):
+## Folder: Synchronous_machine
+### Sketchup models for Synchronous machines (SM):
 
 | `Cylindrical rotor SM`| `Salient pole rotor SM`           |
 | :-------------: |:-------------:|
@@ -26,7 +28,8 @@ construction and their working principles for the energy conversion.
 
 ****
 
-## Sketchup models for Induction machines:
+## Folder: Induction_machines
+### Sketchup models for Induction machines:
 
 | `Single-phase alternating field`| `Three-phase rotating field`       |
 | :-------------: |:-------------:|
@@ -40,6 +43,13 @@ construction and their working principles for the energy conversion.
 | <img src="Induction_machines\SCage_IM.png" width="300">      | <img src="Induction_machines\WoundRotor_IM.png" width="300"> |
 
 ****
+
+### Xfig files for rotating field animation:
+
+| `In 2-pole structure`| `In 4-pole structure`       |
+| :-------------: |:-------------:|
+| <img src="Induction_machines/Xfig_files_animated_rotating_field/2pole_rotating_field.gif" width="310">      | <img src="Induction_machines/Xfig_files_animated_rotating_field/4pole_rotating_field.gif" width="300"> |
+| | |
 
 
 
