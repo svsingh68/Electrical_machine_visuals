@@ -4,25 +4,23 @@ Supplementary materials for teaching & learning "Electrical machines".
 
 ## Folder: DC_machines 
 ### Sketchup models for DC machines:
-
-| `DC motor`| `DC generator`           |
-| :-------------: |:-------------:|
-| <img src="DC_machines\DC_motor.png" width="300">      | <img src="DC_machines\DC_gen.png" width="300"> |
-| | |
-| `Video capture`| `Video capture`           |
-| [![](https://img.youtube.com/vi/27wNInD3b8Y/0.jpg)](https://www.youtube.com/watch?v=27wNInD3b8Y) |[![](https://img.youtube.com/vi/zHrCYNojKQo/0.jpg)](https://www.youtube.com/watch?v=zHrCYNojKQo)|
-
+| `Machine` | `Image`| `Video capture`|
+| :-------------: |:-------------:|:-------------:|
+| `DC motor`|    <img src="DC_machines\DC_motor.png" width="300">  |  [![](https://img.youtube.com/vi/27wNInD3b8Y/0.jpg)](https://www.youtube.com/watch?v=27wNInD3b8Y) |
+|`DC generator`| <img src="DC_machines\DC_gen.png" width="300">  |[![](https://img.youtube.com/vi/zHrCYNojKQo/0.jpg)](https://www.youtube.com/watch?v=zHrCYNojKQo) |
+|  |   |   |
 ****
 
 ## Folder: Synchronous_machine
 ### Sketchup models for Synchronous machines (SM):
 
-| `Cylindrical rotor SM`| `Salient pole rotor SM`           |
-| :-------------: |:-------------:|
-| <img src="Synchronous_machine\Round_rotor_SG.png" width="300">      | <img src="Synchronous_machine\Salient_pole_SG.png" width="300"> |
+| `Machine` | `Image`| `Video capture`|
+| :-------------: |:-------------:| :-------------:|
+| `Cylindrical rotor SM`|  <img src="Synchronous_machine\Round_rotor_SG.png" width="300">| [![](https://img.youtube.com/vi/NCUGFLjxjC0/0.jpg)](https://www.youtube.com/watch?v=NCUGFLjxjC0) |
 | | |
-| `Video capture`| `Video capture`           |
-| [![](https://img.youtube.com/vi/NCUGFLjxjC0/0.jpg)](https://www.youtube.com/watch?v=NCUGFLjxjC0) |[![](https://img.youtube.com/vi/R3fWvMW-PsA/0.jpg)](https://www.youtube.com/watch?v=R3fWvMW-PsA)|
+| `Salient (2-poles) rotor SM`     | <img src="Synchronous_machine\Salient_pole_SG_2poles.png" width="300">| [![](https://img.youtube.com/vi/R3fWvMW-PsA/0.jpg)](https://www.youtube.com/watch?v=R3fWvMW-PsA) |
+| `Salient (4-poles) rotor SM` | <img src="Synchronous_machine\Salient_pole_SG_4poles.png" width="300"> | [![](https://img.youtube.com/vi/U-ztdTjYfts/0.jpg)](https://www.youtube.com/watch?v=U-ztdTjYfts)|
+|  |   |   |
 
 ****
 
