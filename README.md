@@ -27,16 +27,13 @@ Supplementary materials for teaching & learning "Electrical machines".
 ## Folder: Induction_machines
 ### Sketchup models for Induction machines:
 
-| `Single-phase alternating field`| `Three-phase rotating field`       |
-| :-------------: |:-------------:|
-| <img src="Induction_machines\1ph_field.png" width="300">      | <img src="Induction_machines\3ph_rotating_field.png" width="300"> |
-| | |
-| `Video capture`| `Video capture`           |
-| [![](https://img.youtube.com/vi/DnT2nWW9BwI/0.jpg)](https://www.youtube.com/watch?v=DnT2nWW9BwI) |[![](https://img.youtube.com/vi/IJzumWVtB10/0.jpg)](https://www.youtube.com/watch?v=IJzumWVtB10)|
-|     |       |
-|     |       |
-| `Squirrel cage IM`| `Wound rotor IM`       |
-| <img src="Induction_machines\SCage_IM.png" width="300">      | <img src="Induction_machines\WoundRotor_IM.png" width="300"> |
+| `Content` | `Image`| `Video capture`|
+| :-------------: |:-------------:| :-------------:|
+|  `Single-phase alternating field`| <img src="Induction_machines\1ph_field.png" width="300"> |  [![](https://img.youtube.com/vi/DnT2nWW9BwI/0.jpg)](https://www.youtube.com/watch?v=DnT2nWW9BwI) |
+|  `Three-phase rotating field` | <img src="Induction_machines\3ph_rotating_field.png" width="300"> |  [![](https://img.youtube.com/vi/IJzumWVtB10/0.jpg)](https://www.youtube.com/watch?v=IJzumWVtB10) |
+|  `Squirrel cage IM` | <img src="Induction_machines\SCage_IM.png" width="300"> | [![](https://img.youtube.com/vi/1p4EQucRyfc/0.jpg)](https://www.youtube.com/watch?v=1p4EQucRyfc) |
+|  `Wound rotor IM` | <img src="Induction_machines\WoundRotor_IM.png" width="300"> | [![](https://img.youtube.com/vi/UCWy4W379CU/0.jpg)](https://www.youtube.com/watch?v=UCWy4W379CU) |
+
 
 ****
 
