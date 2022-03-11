@@ -37,35 +37,14 @@ ryo = 7*sin(theta);
 % ------------------
 t = 0:2e-3:0.5;
 
-% theta_r = linspace(0,(1-slip)*720,100);
-% stator_rotation = 7200; %degrees
 
 theta_s = linspace(0,7200,length(t));
-% slip = linspace(1,0.05,length(t));
-% slip = 1*exp(-5*t);
-% slip = 1*ones(1,length(theta_s));
 
-% slip = 1*(theta_s<=720) + 0.5*((theta_s>720)&(theta_s<720*2)) + ...
-%     0.25*((theta_s>=720*2)&(theta_s<720*4)) + ...
-%     0.05*((theta_s>=720*4)&(theta_s<720*6)) + ...
-%     0*(theta_s>=720*6);
 slip = 1*(t<=0.1) + 0.5*((t>0.1)&(t<0.2)) + ...
     0.25*((t>=0.2)&(t<0.3)) + ...
     0.05*((t>=0.3)&(t<=0.5));
 
-% nslip = 0*slip;
-% nslip(1) = slip(1);
-% 
-% Tc = 0.005;
-% h = t(2) -t(1);
-% for k = 1:1:(length(t)-1)
-%     nslip(k+1) = nslip(k) + h/Tc*(slip(k)-nslip(k));
-% end
-% 
-% slip = nslip;
-% plot(slip)
-% return
-% t = 0:1e-3:(stator_rotation/360)*20e-3;
+
 isa = 1*sin(2*pi*50*t);
 isb = 1*sin(2*pi*50*t-2*pi/3);
 isc = 1*sin(2*pi*50*t+2*pi/3);
@@ -75,10 +54,6 @@ for k = 1:1:length(t)
 ira(k) = 0.3*slip(k)*exp(slip(k))*sin(2*pi*50*slip(k)*t(k));
 irb(k) = 0.3*slip(k)*exp(slip(k))*sin(2*pi*50*slip(k)*t(k)-2*pi/3);
 irc(k) = 0.3*slip(k)*exp(slip(k))*sin(2*pi*50*slip(k)*t(k)+2*pi/3);
-
-% ira(k) = 0.3*exp(2*slip(k))*sin(2*pi*50*slip(k)*t(k));
-% irb(k) = 0.3*exp(2*slip(k))*sin(2*pi*50*slip(k)*t(k)-2*pi/3);
-% irc(k) = 0.3*exp(2*slip(k))*sin(2*pi*50*slip(k)*t(k)+2*pi/3);
 
 
 theta_r = (1-slip(k))*theta_s(k);
@@ -123,10 +98,7 @@ hold on
 % stator frames
 plot(sxo,syo,'k','linewidth',2)
 plot(sxi,syi,'k','linewidth',2)
-% patch(sxo, syo, 'black', 'FaceColor', 'black', 'FaceAlpha', 0.1);
-% patch(rxo, ryo, 'black', 'FaceColor', 'red', 'FaceAlpha', 0.1);
-% patch(sxi, syi, 'blue', 'FaceColor', 'white', 'FaceAlpha', 0.5);
-% patch(sxo, syo, 'black', 'FaceColor', 'black', 'FaceAlpha', 0.1);
+
 % stator winding slots
 plot(sx1,sy1,'r','linewidth',2)
 plot(sx2,sy2,'r','linewidth',2)
@@ -196,8 +168,4 @@ end
 
 % ----------------------------------
 
-
-% subplot(3,1,2)
-% 
-% subplot(3,1,3)
 
