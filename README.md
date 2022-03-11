@@ -48,7 +48,7 @@ Supplementary materials for teaching & learning "Electrical machines".
 
 | `In 2-pole structure`|
 | :-------------: |
-| <img src="Induction_machines/Octave_files_IM/IM_2d.gif" width="510"> |
+| <img src="Induction_machines/Octave_files_IM/IM_2d.gif" width="710"> |
 | |
  
 
