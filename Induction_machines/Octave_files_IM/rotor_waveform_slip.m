@@ -124,7 +124,7 @@ plot(sxarr,syarr,'-oc','linewidth',4)
 axis equal
 axis off
 hold off
-
+ 
 subplot(4,2,[5 6])
 
 plot(t,isa,'r','linewidth',2,t,isb,'b','linewidth',2,t,isc,'k','linewidth',2);
