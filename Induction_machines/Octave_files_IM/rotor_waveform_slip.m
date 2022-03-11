@@ -155,15 +155,15 @@ hold off
 
 subplot(4,2,[5 6])
 
-plot(t,isa,'r',t,isb,'b',t,isc,'k','linewidth',2);
+plot(t,isa,'r','linewidth',2,t,isb,'b','linewidth',2,t,isc,'k','linewidth',2);
 grid on;
 set(gca,'FontSize',14)
 ylabel({'Stator', 'currents'})
 
 subplot(4,2,[7 8])
 
-plot(t(1:k),ira(1:k),'r',...
-     t(1:k),irb(1:k),'b',...
+plot(t(1:k),ira(1:k),'r','linewidth',2,...
+     t(1:k),irb(1:k),'b','linewidth',2,...
      t(1:k),irc(1:k),'k','linewidth',2);
 grid on;
 ylim([-1 1])
