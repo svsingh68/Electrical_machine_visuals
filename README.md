@@ -1,6 +1,7 @@
 # Electrical machines visuals
 
 Supplementary materials for teaching & learning "Electrical machines".
+
 3D models are made using Sketchup software (free version).
 
 ## Folder: DC_machines 
